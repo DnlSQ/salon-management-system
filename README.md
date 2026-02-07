@@ -50,20 +50,21 @@ Relational database designed in SQL Server with foreign keys and relationships b
 
 ## 📸 Screenshots
 
+
 ### Login
-assets/screenshots/Login.png
+![Login](assets/screenshots/Login.png)
 
 ### Appointment Search
-![Appointments Search](assets/screenshots/appointments-search.png)
+![Appointment Search](assets/screenshots/Consulta%20de%20citas.png)
 
 ### Appointment Form
-![Appointment Form](assets/screenshots/appointments-form.png)
+![Appointment Form](assets/screenshots/citas.png)
 
 ### Inventory Module
-![Inventory](assets/screenshots/inventory.png)
+![Inventory](assets/screenshots/Inventario.png)
 
 ### Database Diagram
-![Database Diagram](assets/screenshots/database-diagram.png)
+![Database Diagram](assets/screenshots/Diagram%20BD.png)
 
 ---
 
