@@ -51,7 +51,7 @@ Relational database designed in SQL Server with foreign keys and relationships b
 ## 📸 Screenshots
 
 ### Login
-![Login](assets/screenshots/login.png)
+assets/screenshots/Login.png
 
 ### Appointment Search
 ![Appointments Search](assets/screenshots/appointments-search.png)
